@@ -1,4 +1,4 @@
-# XxDoublePay For Kotlin[![](https://jitpack.io/v/LoveJ2057/XxAnyPay.svg)](https://jitpack.io/#LoveJ2057/XxAnyPay)
+# XxDoublePay For Kotlin[![](https://jitpack.io/v/Lxx2057/XxDoublePay.svg)](https://jitpack.io/#Lxx2057/XxDoublePay)
 
 #### 集合支付宝支付,微信支付的一个工具库,简化了直接对接支付SDK的操作
 ### 如何使用
@@ -13,7 +13,7 @@
 2.项目主module的build.gradle文件中增加依赖
       	
     dependencies {
-	        implementation 'com.github.Lxx2057:XxDoublePay:版本号'
+	        implementation 'com.github.Lxx2057:XxDoublePay:Tag'
 	}
 
 ### 配置
