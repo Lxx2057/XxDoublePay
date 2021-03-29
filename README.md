@@ -13,7 +13,7 @@
 2.项目主module的build.gradle文件中增加依赖
       	
     dependencies {
-	        implementation 'com.github.Lxx2057:XxDoublePay:Tag'
+	        implementation 'com.github.Lxx2057:XxDoublePay:1.0'
 	}
 
 ### 配置
